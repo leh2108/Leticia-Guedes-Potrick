@@ -8,5 +8,5 @@ Meu hobby é ouvir música,fico escutando o dia inteiro;
 Meus gêneros musicais favoritos são "rock' e "nu metal";
 minha comida favorita é purê de batata;
 Minha cor favorita é vermelho;
-Eu pratico võlei mas meu esporte favorito pra assistir é futebol, inclusive torço pro Athletico Paranaense;
+Eu pratico vôlei mas meu esporte favorito pra assistir é futebol, inclusive torço pro Athletico Paranaense;
 Amo pintar minhas unhas.
